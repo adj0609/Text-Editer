@@ -39,3 +39,4 @@ export default class {
       putDb(localStorage.getItem('content'));
     });
   }
+}
